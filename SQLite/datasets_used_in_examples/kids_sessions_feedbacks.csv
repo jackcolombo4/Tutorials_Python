@@ -1,0 +1,9 @@
+kid_id,session_id,therapist_grade,quantity_feedback_session,grade_feedback_session,value_feedback_session,time_of_session,LED_body_brightness,LED_base_brightness,volume_speakers,forward_speed,rotational_speed,num_interruptions_session,goal_fulfilled,occurred_event_kid,real_time_changes,notes
+10000,20000,,,,,,low,std,low,low,slow,slow,,,,
+10000,20001,,,,,,low,std,low,low,slow,slow,,,,
+10000,20002,,,,,,low,std,low,low,slow,slow,,,,
+10000,20003,,,,,,low,std,low,low,slow,slow,,,,
+10000,20004,,,,,,low,std,low,low,slow,slow,,,,
+10000,20005,,,,,,low,std,low,low,slow,slow,,,,
+10001,20006,,,,,,low,std,low,low,slow,slow,,,,
+10001,20022,,,,,,low,std,low,low,slow,slow,,,,

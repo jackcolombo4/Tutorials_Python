@@ -1,0 +1,11 @@
+This is line 1.
+Hello, world!
+Python is awesome.
+Line number 4.
+I love programming.
+Another line here.
+Sample text.
+Line number 8.
+Testing the file.
+Final line in the file.
+

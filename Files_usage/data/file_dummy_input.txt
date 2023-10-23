@@ -1,0 +1,4 @@
+The followint text has no meaning. I am just a dummy example.
+But don' t remove me, I am used by some script to practise with Python.
+Bye! 
+Ciao!
