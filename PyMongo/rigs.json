@@ -1,0 +1,31 @@
+[
+    {
+        "band": "The Electric Waves",
+        "guitarist": "Johnny Blaze",
+        "rig": {
+            "amplifiers": ["Marshall JCM800", "Fender Twin Reverb"],
+            "pedals": ["Boss DD-7 Digital Delay", "Ibanez TS9 Tube Screamer", "MXR M234 Analog Chorus"],
+            "guitars": ["Fender Stratocaster", "Gibson Les Paul"],
+            "cables": ["Mogami Gold Instrument Cable", "Planet Waves Classic Series"],
+            "power_supply": "Voodoo Lab Pedal Power 2 Plus",
+            "pedalboard": "Pedaltrain PT-2",
+            "speaker_cabinets": ["Orange PPC212", "Mesa Boogie Rectifier 2x12"],
+            "microphones": ["Shure SM57", "Sennheiser e906"]
+        }
+    },
+    {
+        "band": "The Electric Waves",
+        "bassist": "Laura Thunder",
+        "rig": {
+            "amplifiers": ["Ampeg SVT-CL", "Fender Bassman 500"],
+            "pedals": ["Electro-Harmonix Bass Big Muff Pi", "MXR M82 Bass Envelope Filter"],
+            "guitars": ["Fender Precision Bass", "Rickenbacker 4003"],
+            "cables": ["Monster Bass Cable", "Ernie Ball Braided Cable"],
+            "power_supply": "Cioks DC10",
+            "pedalboard": "SKB PS-8",
+            "speaker_cabinets": ["Hartke HyDrive 410", "Gallien-Krueger Neo 412"],
+            "microphones": ["AKG D112 MkII", "Audix D6"]
+        }
+    }
+]
+
